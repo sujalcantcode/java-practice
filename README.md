@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# java-practice
-Java DSA and OOP problems
-=======
 # Java Practice & LeetCode Problems
 
 This repo contains:
@@ -18,4 +14,4 @@ This repo contains:
 - VS Code
 - Git & GitHub
 
->>>>>>> 6c11657 (java dsa and practice problems)
+
