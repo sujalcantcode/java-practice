@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# java-practice
-Java DSA and OOP problems
-=======
+
 # Java Practice & LeetCode Problems
 
 This repo contains:
